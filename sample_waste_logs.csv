@@ -1,0 +1,16 @@
+timestamp,department,waste_type,mission_id,collection_status
+2026-10-07 08:15:22,ICU,Needle,M10042,Collected
+2026-10-07 08:22:15,Ward A,Gauze,M10043,Collected
+2026-10-07 08:31:05,Emergency,Glass,M10044,Collected
+2026-10-07 08:45:10,Ward B,Bandage,M10045,Failed
+2026-10-07 09:02:44,ICU,Medicine Waste,M10046,Collected
+2026-10-07 09:15:30,Pharmacy,Glass,M10047,Collected
+2026-10-07 09:30:11,ICU,Needle,M10048,Collected
+2026-10-07 09:42:55,Emergency,Bandage,M10049,Collected
+2026-10-07 10:05:22,Ward A,Gauze,M10050,Collected
+2026-10-07 10:18:40,ICU,Medicine Waste,M10051,Collected
+2026-10-07 10:33:12,Pharmacy,Needle,M10052,Failed
+2026-10-07 10:45:05,Emergency,Glass,M10053,Collected
+2026-10-07 11:02:18,Ward B,Gauze,M10054,Collected
+2026-10-07 11:15:42,ICU,Needle,M10055,Collected
+2026-10-07 11:30:20,ICU,Bandage,M10056,Collected
